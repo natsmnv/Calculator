@@ -1,0 +1,49 @@
+{
+  "cities": [
+    {
+      "name": "Chicago",
+      "land": 900,
+      "shipping": 1300
+    },
+    {
+      "name": "Houston",
+      "land": 800,
+      "shipping": 1150
+    },
+    {
+      "name": "Los Angeles",
+      "land": 1250,
+      "shipping": 1700
+    },
+    {
+      "name": "Miami",
+      "land": 800,
+      "shipping": 1150
+    },
+    {
+      "name": "New York",
+      "land": 750,
+      "shipping": 1025
+    },
+    {
+      "name": "Savannah",
+      "land": 750,
+      "shipping": 1025
+    },
+    {
+      "name": "Seattle",
+      "land": 1750,
+      "shipping": 2325
+    },
+    {
+      "name": "Toronto",
+      "land": 900,
+      "shipping": 1300
+    },
+    {
+      "name": "Honolulu",
+      "land": 2500,
+      "shipping": 3400
+    }
+  ]
+}
